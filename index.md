@@ -9,7 +9,7 @@ Syntax highlighted code block
 - This is fun
 - CS193 is super fun
 - I could do this allllll day
-- :smile: :+1:
+- i finally got an iclicker!!!
 
 ```
 
